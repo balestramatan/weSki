@@ -1,0 +1,15 @@
+.input {
+    transition: all 0.2s ease;
+    width: 100%;
+    padding: 0 10px;
+    background-color: #FFF;
+    border: 1px solid grey;
+    height: 40px;
+    font-size: 14px;
+    text-align: left;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    box-shadow: none;
+    color: #000;
+    margin: 0 10px 0 10px;
+}

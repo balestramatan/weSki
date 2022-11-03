@@ -1,0 +1,21 @@
+
+.hotel-item {
+    border: 1px solid grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin: 2em;
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+}
+
+.hotel-image {
+}
+
+.hotel-item__content {
+    padding: 0 2em 0 0;
+}

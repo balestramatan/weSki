@@ -1,0 +1,19 @@
+
+.form-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.search-button-inner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100px;
+}
+
+.submit-button {
+    margin-left: 10px;
+    margin-top: 5px;
+}
